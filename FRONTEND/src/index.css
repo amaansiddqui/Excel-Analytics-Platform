@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+	--color-primary: #0000ff; /* Updated to blue */
+}
+
+@font-face {
+	font-family: "PP Telegraf";
+	src: url("/assets/fonts/pp-telegraf-regular.otf") format("opentype");
+}
+
+*{
+	overflow-x: hidden;
+}
