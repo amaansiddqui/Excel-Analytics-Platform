@@ -26,7 +26,6 @@
   
 - **Deployment:** Vercel
 
-# OPENAPI KEY= "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"
 
 # SCREENSHOT
 
