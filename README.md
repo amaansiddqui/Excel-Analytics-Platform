@@ -26,6 +26,9 @@
   
 - **Deployment:** Vercel
 
+- # Note
+- I created this project individually. I gradeup my skills as full stack developer.
+
 
 # SCREENSHOT
 
